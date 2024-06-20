@@ -3,7 +3,10 @@
   padding: 1rem;
   img {
     border: 1px solid $text;
-    max-width: 500px;
+    max-width: 100%;
     margin: 0.5rem auto;
+    @media screen and (min-width: 850px) {
+      max-width: 500px;
+    }
   }
 }
