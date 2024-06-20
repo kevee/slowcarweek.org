@@ -1,0 +1,16 @@
+$text: #403F3D;
+$text-light: #524834;
+$background: #ffdd32;
+
+body {
+  background-color: $background;
+  color: $text;
+}
+
+a {
+  color: $text;
+  &:hover {
+    color: $background;
+    background: $text;
+  }
+}

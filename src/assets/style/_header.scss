@@ -1,0 +1,35 @@
+header {
+  margin-top: 1.5rem;
+  margin-bottom: 3rem;
+  aside {
+    font-family: 'Staatliches', sans-serif;
+    margin-left: 2rem;
+    font-size: 1.5rem;
+  }
+  h1 {
+    font-size: 3rem;
+    line-height: 3rem;
+    .week {
+      display: block;
+      font-size: 2.5rem;
+      @media (min-width: 850px) {
+        font-size: 4rem;
+      }
+    }
+    a, abbr {
+      display: inline-block;
+      padding: 0.5rem;
+      text-decoration: none;
+      color: $text;
+      text-decoration-line: none;
+
+      @media (min-width: 850px) {
+        margin-left: 0.5rem;
+      }
+      &:hover {
+        color: $background;
+        background: $text;
+      }
+    }
+  }
+}

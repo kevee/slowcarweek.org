@@ -1,0 +1,9 @@
+.sticker {
+  border: 2px dashed $text;
+  padding: 1rem;
+  img {
+    border: 1px solid $text;
+    max-width: 500px;
+    margin: 0.5rem auto;
+  }
+}

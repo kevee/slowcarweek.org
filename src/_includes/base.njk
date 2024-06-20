@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ locale }}" dir="{{ dir }}">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+    <meta property="og:site_name" content="Monterey Car Week Pace Car Program"/>
+    <meta property="og:title" content="{{title}}"/>
+    <title>Monterey Car Week Pace Car Program {{ title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/style/main.css' | url }}"/>
+
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1><span class="week">
+          <a href="/" class="home-link">Monterey Car Week</a>
+          <a href="/#note"><abbr title="Footnote">*</abbr></a></span> 
+          <a href="/" class="home-link">Pace Car Program</a></h1>
+          <aside>August 9-18, 2024</aside>
+        
+      </div>
+    </header>
+   <div class="container">
+    <main>
+    {{ content | safe }}
+    </main>
+    </div>
+    <footer>
+      <div class="container">
+        <nav>
+          <ul>
+            <li><a href="/legal">Legal</a></li>
+            <li><a href="/accessibility">Accessibility</a></li>
+            <li><a href="/contact">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </footer>
+  </body>
+</html>
