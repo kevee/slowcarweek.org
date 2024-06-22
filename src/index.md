@@ -11,8 +11,10 @@ You can help by becoming an **Official Monterey Car Week Pace Car**. Just pledge
 
 - Drive at least 5 mph below the speed limit, when safe to do so
 - Make a very complete stop at every stop sign. Look left. Look right. Look left again.
+- Stop for pedestrians at marked and unmarked crossings
 - Don't turn right on a red light.
 - If tailgated, drive slower.
+- Display the Official Monterey Car Week Pace Car bumper sticker on your car.
 
 <div class="sticker">
     <h2>Sign the pledge, get a bumper sticker</h2>
