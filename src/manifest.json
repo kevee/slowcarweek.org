@@ -1,0 +1,22 @@
+{
+  "short_name": "Monterey Car Week Pace Car Program",
+  "name": "Slow Car Week",
+  "icons": [
+    {
+      "src": "/assets/images/favicon.svg",
+      "type": "image/svg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/images/favicon.svg",
+      "type": "image/svg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "background_color": "#ffdd32",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#403F3D",
+  "description": "A program to slow cars during car week."
+}
