@@ -5,7 +5,7 @@ layout: base.njk
 
 Every year, **Monterey Car Week** brings together the world's most exclusive cars and their owners.
 
-Unfotunately, these owners **drive like dicks**.
+Unfortunately, these owners **drive like dicks**.
 
 You can help by becoming an **Official Monterey Car Week Pace Car**. Just pledge to follow these specific rules **when being followed by a fancy car** from **August 9 to August 18**:
 
