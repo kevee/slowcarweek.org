@@ -7,7 +7,7 @@ Every year, **Monterey Car Week** brings together the world's most exclusive car
 
 Unfortunately, these owners **drive like dicks**.
 
-You can help by becoming an **Official Monterey Car Week Pace Car**. Just pledge to follow these specific rules **when being followed by a fancy car** from **August 9 to August 18**:
+You can help protect your neighbors from exotic cars by becoming an **Official Monterey Car Week Pace Car**. Just pledge to follow these specific rules **when being followed by a fancy car** from **August 9 to August 18**:
 
 - Drive at least 5 mph below the speed limit, when safe to do so
 - Make a very complete stop at every stop sign. Look left. Look right. Look left again.
